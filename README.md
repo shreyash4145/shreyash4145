@@ -4,6 +4,9 @@
 🔍 Passionate about AI, Generative Models, Cloud Computing & Data Engineering  
 📍 Pune, India  
 
+### 🏗️ Explore My Projects  
+🔗 [GitHub Repositories](https://github.com/shreyash4145)  
+
 ---
 
 ### 🏆 About Me  
@@ -45,8 +48,5 @@ I am an innovative **Data Science and AI Engineer** with a strong foundation in 
 - **Data Analytics with Python (FreeCodeCamp)**  
 
 ---
-
-### 🏗️ Explore My Projects  
-🔗 [GitHub Repositories](https://github.com/shreyash4145)  
 
 🚀 **Stay Connected & Keep Learning!**  🎯
