@@ -19,13 +19,16 @@ I am an innovative **Data Science and AI Engineer** with a strong foundation in 
 
 ### 🛠️ Tech Stack  
 **Machine Learning & AI:**  
-![Python](https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png) ![TensorFlow](https://clipground.com/images/tensorflow-logo-4.png) ![PyTorch](https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png) ![HuggingFace](https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies.png)  ![LangChain](https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png)
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black) |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 
 **Cloud & DevOps:**  
-![Azure](https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png) ![Docker](https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png) ![GitHub](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)  
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 
 **Data Science & Analytics:**  
-![Pandas](https://hutsons-hacks.info/wp-content/uploads/2020/09/1200px-Pandas_logo.svg_-1-1024x414.png) ![NumPy](https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png) ![SQL](https://clipground.com/images/sql-logo-clipart.jpg) ![Power BI](https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png)  
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ---
 
