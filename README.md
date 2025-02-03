@@ -5,7 +5,7 @@
 📍 Pune, India  
 
 ### 🏗️ Explore My Projects  
-🔗 [GitHub Repositories](https://github.com/shreyash4145)  
+🔗 [ Seee the bottom of this page](https://github.com/shreyash4145)  
 
 ---
 
