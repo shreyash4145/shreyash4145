@@ -22,7 +22,7 @@ I am an innovative **Data Science and AI Engineer** with a strong foundation in 
 
 ### 🛠️ Tech Stack  
 **Machine Learning & AI:**  
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black) ! ![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green) | 
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 
 **Cloud & DevOps:**  
