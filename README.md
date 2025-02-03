@@ -37,12 +37,6 @@ I am an innovative **Data Science and AI Engineer** with a strong foundation in 
 
 ---
 
-### 📊 GitHub Stats  
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyash4145&show_icons=true&theme=dark&hide=prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash4145&layout=compact&theme=dark)  
-
----
-
 ### 🌟 Certifications  
 - **Microsoft Azure Fundamentals (AZ-900)**  
 - **Microsoft Data Fundamentals (DP-900)**  
@@ -51,4 +45,4 @@ I am an innovative **Data Science and AI Engineer** with a strong foundation in 
 
 ---
 
-🚀 **Stay Connected & Keep Learning!**  🎯
+🚀 **Stay Connected & Keep Learning, Keep Growing!**  🎯
