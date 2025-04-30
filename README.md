@@ -1,48 +1,58 @@
-### Hi there, I'm Shreyash Mahakale! 👋  
+# 👋 Hi, I'm Shreyash Mahakale
 
-🚀 **Data Science & AI Engineer | ML & Cloud Enthusiast**  
-🔍 Passionate about AI, Generative Models, Cloud Computing & Data Engineering  
-📍 Pune, India  
-
-### 🏗️ Explore My Projects  
-🔗 ⬇️ See the bottom of this page
+🚀 **AI & Data Science Engineer**  
+📍 Pune, India | 🎓 MIT Academy of Engineering  
+🔬 Focus: **Generative AI**, **MLOps**, **Cloud**, and **ML Engineering**
 
 ---
 
-### 🏆 About Me  
-I am an innovative **Data Science and AI Engineer** with a strong foundation in **Machine Learning, AI, and Cloud Computing**. Skilled in building AI-driven solutions, predictive models, and scalable cloud architectures. Passionate about leveraging **Generative AI, LLMs, and Data Science** to solve complex problems.  
+## 🧠 About Me
 
-- 🔬 **Currently Working on:** AI-powered predictive analytics & cloud-based AI solutions  
-- 📚 **Education:** B.Tech in Electronics & Telecommunication, MIT Academy of Engineering  
-- 🎯 **Internships:** AI Intern @ Expleo Technologies | Cloud Intern @ Coppercloud IoTech  
-- 💡 **Interests:** AI, Deep Learning, Cloud, Data Engineering, Automation  
-- 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/shreyash-mahakale-s291203) | [GitHub](https://github.com/shreyash4145)  
+I'm a passionate AI engineer building intelligent systems to solve real-world challenges. I specialize in Generative AI, LLMs, and scalable MLOps workflows, with hands-on experience in both research and real-world industrial deployment.
 
 ---
 
-### 🛠️ Tech Stack  
-**Machine Learning & AI:**  
+## 🛠️ Tech Stack  
+
+### **Machine Learning & AI:**  
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black) | ![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green) | ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6347?style=flat&logo=artificial-intelligence&logoColor=white) |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 
+### **Cloud & DevOps:**  
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) |
 
-**Cloud & DevOps:**  
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-
-
-**Data Science & Analytics:**  
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+### **Data & MLOps Tools:**  
+| ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) | ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dataversioncontrol&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 
 ---
 
-### 🌟 Certifications  
-- **Microsoft Azure Fundamentals (AZ-900)**  
-- **Microsoft Data Fundamentals (DP-900)**  
-- **Generative AI with LLMs (Udemy)**  
-- **Data Analytics with Python (FreeCodeCamp)**  
+## 🧪 Real-World Experience
+
+### **AI Intern @ Expleo Solutions**  
+- 🧠 Developed a GenAI-based **PFMEA document generation tool** from MBOM + user features using AI agents  
+- ⚙️ Built a **Manufacturing Line Balancing solution** using GenAI for managing operators, tools & takt time  
+- 🔧 Created **predictive maintenance** models for PLCs using ML & LSTM-based time-series forecasting  
+
+### **Cloud Intern @ Coppercloud IoTech**  
+- ☁️ Deployed scalable ML APIs using Azure & Dockerized microservices architecture  
 
 ---
 
-🚀 **Stay Connected & Keep Learning, Keep Growing!**  🎯
+## 📚 Certifications
+
+- AZ-900: Microsoft Azure Fundamentals  
+- DP-900: Microsoft Data Fundamentals  
+- Generative AI with LLMs (Udemy)  
+- 📈 **Complete MLOps Bootcamp – Project-Based**  
+  - CI/CD, MLflow, DVC, Huggingface, SageMaker  
+  - NLP & RAG Pipelines, Monitoring with Grafana  
+
+---
+
+## 📂 Explore My Work
+
+🔗 [GitHub Portfolio](https://github.com/shreyash4145)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreyash-mahakale-s291203)
+
+---
+
+> “Keep Building. Keep Learning. Keep Growing.”
