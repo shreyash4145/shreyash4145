@@ -67,6 +67,7 @@ I'm a curious and driven **AI & Data Engineer** passionate about solving real-wo
 
 ## 📜 Certifications
 
+- Hugging face Agentic AI and Agents Handson Course ( 88.69% /100 )
 - Microsoft Azure Fundamentals (AZ-900)  
 - Microsoft Data Fundamentals (DP-900)  
 - Generative AI with LLMs (Udemy)  
