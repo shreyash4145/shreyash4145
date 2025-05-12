@@ -70,9 +70,11 @@ I'm a curious and driven **AI & Data Engineer** passionate about solving real-wo
 - Hugging face Agentic AI and Agents Handson Course ( 88.69% /100 )
 - Microsoft Azure Fundamentals (AZ-900)  
 - Microsoft Data Fundamentals (DP-900)  
-- Generative AI with LLMs (Udemy)  
-- End-to-End MLOps Bootcamp (Personal Projects)  
+- Generative AI and Agentic AI with LLMs (Udemy)  
+- End-to-End MLOps Bootcamp (Udemy)
+- MLOps Practical Implementation with 10+ end to end projects (Udemy)  
 - Data Analytics with Python (freeCodeCamp)
+- Scientific Computing with Python (FreeCodeCamp)
 
 ---
 
